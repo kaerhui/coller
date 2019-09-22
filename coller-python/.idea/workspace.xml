@@ -31,7 +31,28 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d051083-5efe-4f6b-bcb7-00327dfbd20c" name="Default Changelist" comment="" />
+    <list default="true" id="8d051083-5efe-4f6b-bcb7-00327dfbd20c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/player-cpp-demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.grpc.pb.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.grpc.pb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.pb.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.pb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_server.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/generate.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/player.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protos/scheduler.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler.grpc.pb.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler.grpc.pb.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler.pb.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler.pb.h" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,33 +65,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/player_server.cc">
+        <entry file="file://E:/迅雷下载/JunQi-master/GUI/src/junqi.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2584">
-              <caret line="358" selection-start-line="358" selection-end-line="358" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/player.pb.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10317">
-              <caret line="543" column="12" selection-start-line="543" selection-start-column="12" selection-end-line="543" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protos/player.proto">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-            </state>
+            <state relative-caret-position="-17100" />
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,13 +87,14 @@
     <option name="directoryName" value="wMBjtCag" />
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="267" />
+    <option name="y" value="102" />
     <option name="width" value="1440" />
     <option name="height" value="810" />
   </component>
   <component name="ProjectId" id="1R0NAfTDhrh4DQNwALAajeBUTfL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showMembers ProjectPane="true" />
@@ -98,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,12 +115,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/迅雷下载/GwanKei-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
@@ -147,16 +159,18 @@
       <workItem from="1568943403450" duration="4938000" />
       <workItem from="1569032014355" duration="10075000" />
       <workItem from="1569063252480" duration="51000" />
+      <workItem from="1569160613287" duration="1248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10126000" />
+    <option name="totallyTimeSpent" value="11374000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="214" y="82" width="1152" height="648" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12065814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,13 +195,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/player_server.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="358" selection-start-line="358" selection-end-line="358" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/player.pb.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10317">
@@ -200,6 +207,21 @@
         <state relative-caret-position="836">
           <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheduler.grpc.pb.cc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player_server.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/迅雷下载/JunQi-master/GUI/src/junqi.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17100" />
       </provider>
     </entry>
   </component>
